@@ -16,6 +16,14 @@ Project Description:
   Create a command-line password generator in Python that generates random passwords based on user-defined criteria, such as length and character types (letters, numbers, symbols). Allow 
   users to specify password length and character set preferences.
 
+4.Voice Assistant
+
+Project Description:
+   Create a basic voice assistant that can perform simple tasks based on voice commands. Implement features like responding to "Hello" and providing predefined responses, telling the 
+   time or date, and searching the web for information based on user queries.
+
+  
+
 
 
 
